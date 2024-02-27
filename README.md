@@ -36,6 +36,6 @@ For more information about the AWS Bedrock platform, refer to the official docum
 This project is for educational and demonstration purposes only. Ensure compliance with AWS terms of service and usage policies when using the Bedrock platform and associated services.
 
 ## Author
-hmad A Shaik, Ph.D.
+Ahmad A Shaik, Ph.D.
 ## License
 This project is licensed under the MIT License.
